@@ -1,0 +1,18 @@
+body {
+  background-size: cover;
+  background-image: url(file:///D:/abelt/Documents/Desarrollo%20Web/Proyectos/Proyecto3/Foundation/img/Fondo.svg);
+}
+
+header div {
+  background-color: RGBA(65, 105, 225, 0.5);
+  margin: auto;
+  padding: auto;
+  color: white;
+  font-family: sans-serif;
+}
+h3 {font-style: italic;}
+
+#Navegacion {  background-color: RGBA(255, 127, 80, 0.5) }
+#Articulo { background-color: RGBA(255, 160, 122, 0.5) }
+
+h2 { text-decoration: underline;}
