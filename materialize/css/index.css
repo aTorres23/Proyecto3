@@ -1,0 +1,28 @@
+body {
+  background-image: url(file:///D:/abelt/Documents/Desarrollo%20Web/Proyectos/Proyecto3/materialize/img/Fondo.svg);
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 2%;
+}
+h2 { text-align: center;}
+p { text-align: justify;}
+h3 { text-align: center}
+
+.circle {
+  display: block;
+  margin: auto;
+}
+
+
+
+@media only screen and (max-width:800px) {
+  body {
+    margin: auto;
+    padding: auto;
+    width: 100%
+  }
+  #i1 {
+    display: block;
+    margin: auto;
+  }
+}
